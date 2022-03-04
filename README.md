@@ -19,8 +19,6 @@
 <p align="left">
 <a href="https://instagram.com/itz_biswajt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_biswajt" height="30" width="40" /></a>
 </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itstarzan&show_icons=true&locale=en&layout=compact" alt="itstarzan" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itstarzan&show_icons=true&locale=en" alt="itstarzan" /></p>
-<img src="https://raw.githubusercontent.com/itstarzan/itstarzan/master/folder/music.gif" alt="music ?" width="360" height="240">
+<img align="center" src="https://raw.githubusercontent.com/itstarzan/itstarzan/master/folder/music.gif" alt="music ?" width="360" height="240" >
