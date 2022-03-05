@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itstarzan&label=Profile%20views&color=0e75b6&style=flat" alt="itstarzan" /> </p>
 
-- 🔭 I’m currently working on [Mi A3-Custom Roms OctaviOs](https://octavi-os.com/downloads?s=laurel_sprout)
+- 🔭 I’m currently working on **Mi A3-Custom Roms..** [OctaviOs](https://octavi-os.com/downloads?s=laurel_sprout)
 
 - 🌱 I’m currently learning **HTML,JavaScript,CSS,Python..**
 
@@ -21,4 +21,4 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itstarzan&show_icons=true&locale=en&layout=compact" alt="itstarzan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itstarzan&show_icons=true&locale=en" alt="itstarzan" /></p>
-<img align="center" src="https://raw.githubusercontent.com/itstarzan/itstarzan/master/folder/music.gif" alt="music ?" width="360" height="240" >
+<p><img align="center" src="https://raw.githubusercontent.com/itstarzan/itstarzan/master/folder/music.gif" alt="music ?" width="360" height="240" /></p>
