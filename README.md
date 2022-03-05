@@ -22,3 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itstarzan&show_icons=true&locale=en&layout=compact" alt="itstarzan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itstarzan&show_icons=true&locale=en" alt="itstarzan" /></p>
 <p><img align="center" src="https://raw.githubusercontent.com/itstarzan/itstarzan/master/folder/music.gif" alt="music ?" width="360" height="240" /></p>
+<p align="center"><img width="100" src="https://komarev.com/ghpvc/?username=itstarzan&color=green&style=flat-square&label=Visitors" alt="itstarzan"></p>
