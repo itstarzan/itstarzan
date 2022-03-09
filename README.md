@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> , I'm Biswajit Das (itstarzan)</h1>
 <h3 align="center">A passionate learner of computer languages.</h3>
-<p><img align="right" src="https://raw.githubusercontent.com/itstarzan/itstarzan/master/folder/music.gif" alt="music ?" width="360" height="240" /></p>
+<p><img align="right" src="https://raw.githubusercontent.com/itstarzan/itstarzan/master/folder/music.gif" alt="music ?" width="320" height="200" /></p>
 
 - 🔭 I’m currently working on **Mi A3-Custom Roms..**[OctaviOs](https://octavi-os.com/downloads?s=laurel_sprout)
 
